@@ -22,31 +22,37 @@ This project is a home lab environment for Active Directory (AD) using Oracle Vi
 
 <p align="center">
 Network Map: <br/>
-<img src="https://imgur.com/a/x33Sw7i" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o9R2gsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up Internal Network:  <br/>
+<img src="https://i.imgur.com/TS7uLtz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+IP Address Gateway and DNS set up: <br/>
+<img src="https://i.imgur.com/zAGqEp8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure NAT:  <br/>
+<img src="https://i.imgur.com/Nl5meZy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up Users Accounts:  <br/>
+<img src="https://i.imgur.com/PdyEjOc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Make a Username from First and Last names:  <br/>
+<img src="https://i.imgur.com/4p4g1dG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Users:  <br/>
+<img src="https://i.imgur.com/fFFBzk1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Set up Second Domain:  <br/>
+<img src="https://i.imgur.com/RvWzm5K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Client Gateway Set up:  <br/>
+<img src="https://i.imgur.com/Z4P2IO9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--

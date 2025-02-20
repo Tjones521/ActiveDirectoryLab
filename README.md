@@ -1,6 +1,5 @@
 <h1>Active Directory Home Lab with PowerShell</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project is a home lab environment for Active Directory (AD) using Oracle VirtualBox. It covers the installation and configuration of a Windows Server virtual machine, setting up Active Directory Domain Services (AD DS), and automating user creation using PowerShell scripts.
